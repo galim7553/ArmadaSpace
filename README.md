@@ -17,7 +17,8 @@
 </table>
 
 ## 소개 영상
-(링크 삽입할 것)
+https://www.youtube.com/watch?v=I0JaDhaT4O8
+
 ## 개발 목적
 - Unity UI/UX 구현 숙달
 - 기획자와 기획서로 소통하며 협업
