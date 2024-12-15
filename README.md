@@ -37,7 +37,7 @@
 | ------------- | ------------- |
 | Design Pattern  | MVP Pattern, Singleton Pattern  |
 | UI Object Binding  | 자식 컴포넌트 자동 바인딩  |
-| Object Pooling  | 자주 사용하는 Object Stack 기반 풀링  |
+| Object Pooling  | 자주 사용하는 Object를 Stack 기반으로 풀링  |
 | BFS  | 너비 우선 탐색 기반으로 항로 연결 여부 계산  |
 | TaskSequencer  | UI 연출 순차 진행을 위해 사용  |
 | ExcelToJsonConverter  | Editor 스크립트로 Excel 파일을 Json 파일로 자동 변환  |
