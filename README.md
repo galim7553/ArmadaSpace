@@ -16,7 +16,7 @@
 (링크 삽입할 것)
 - WebGL(Firebase Hosting) https://armada-space-alpha.web.app/
 
-## 사용 에섯
+## 사용 에셋
 - TextMeshPro
 - Sci-Fi Card Template Charlie
   
@@ -30,3 +30,10 @@
 - All In 1 Sprite Shader
   
   UI 연출
+
+## 주요 사용 기술
+
+| 항목명        | 설명      |
+| ------------- | ------------- |
+| Row 1, Col 1  | Row 1, Col 2  |
+| Row 2, Col 1  | Row 2, Col 2  |
