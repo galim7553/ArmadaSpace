@@ -27,6 +27,7 @@
 (링크 삽입할 것)
 - WebGL(Firebase Hosting) https://armada-space-alpha.web.app/
 
+- 2024년 12월 현재 오프라인 대전 모드만 지원합니다.
 ## 사용 에셋
 - TextMeshPro
 - Sci-Fi Card Template Charlie
