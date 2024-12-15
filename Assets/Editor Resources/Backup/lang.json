@@ -1,0 +1,1574 @@
+{
+  "codeStrings": [
+    {
+      "code": "HC101n",
+      "kor": "칼 레더",
+      "eng": "Karl Reader"
+    },
+    {
+      "code": "HC201n",
+      "kor": "전초 기지",
+      "eng": "OutPost"
+    },
+    {
+      "code": "HC202n",
+      "kor": "포지 플래닛",
+      "eng": "Forge Planet"
+    },
+    {
+      "code": "HC203n",
+      "kor": "테라리움",
+      "eng": "Terrarium"
+    },
+    {
+      "code": "HC204n",
+      "kor": "행성 채굴장",
+      "eng": "Planet Miner"
+    },
+    {
+      "code": "HC301n",
+      "kor": "폰 티네리급 전함",
+      "eng": "Von Tineri Class BattleShip"
+    },
+    {
+      "code": "HC302n",
+      "kor": "레더급 경순양함",
+      "eng": "Reader Class Cruiser"
+    },
+    {
+      "code": "HC303n",
+      "kor": "마르코급 구축함",
+      "eng": "Marcco Class Destroyer"
+    },
+    {
+      "code": "HC304n",
+      "kor": "알렉산더급 통제함",
+      "eng": "Alexander class Control Ship"
+    },
+    {
+      "code": "HC305n",
+      "kor": "수송선",
+      "eng": "Transport Ship"
+    },
+    {
+      "code": "HC401n",
+      "kor": "레기온 스텔라",
+      "eng": "Legio Stella"
+    },
+    {
+      "code": "HC402n",
+      "kor": "트리아니아",
+      "eng": "Triarila"
+    },
+    {
+      "code": "HC403n",
+      "kor": "소코리움",
+      "eng": "Socorium"
+    },
+    {
+      "code": "HC404n",
+      "kor": "센츄리온",
+      "eng": "Centurion"
+    },
+    {
+      "code": "HC501n",
+      "kor": "공장",
+      "eng": "Factory"
+    },
+    {
+      "code": "EC101n",
+      "kor": "집행관 아르카디안",
+      "eng": "Excuter Arcadian"
+    },
+    {
+      "code": "EC201n",
+      "kor": "드론 제어 센터",
+      "eng": "Drone ControlCenter"
+    },
+    {
+      "code": "EC202n",
+      "kor": "선조의 유적지",
+      "eng": "Ruin of Forerunner"
+    },
+    {
+      "code": "EC203n",
+      "kor": "라이브러리",
+      "eng": "library"
+    },
+    {
+      "code": "EC204n",
+      "kor": "워프 게이트",
+      "eng": "WarpGate"
+    },
+    {
+      "code": "EC301n",
+      "kor": "선조의 지혜",
+      "eng": "Whisdom of Forerunner"
+    },
+    {
+      "code": "EC302n",
+      "kor": "선조의 예언",
+      "eng": "Prophecy of Forerunner"
+    },
+    {
+      "code": "EC303n",
+      "kor": "감시자",
+      "eng": "Observer"
+    },
+    {
+      "code": "EC401n",
+      "kor": "집행관",
+      "eng": "Excuter"
+    },
+    {
+      "code": "EC402n",
+      "kor": "사서",
+      "eng": "Librarian"
+    },
+    {
+      "code": "EC403n",
+      "kor": "수호자",
+      "eng": "Protector"
+    },
+    {
+      "code": "EC404n",
+      "kor": "항법드론",
+      "eng": "Navigator"
+    },
+    {
+      "code": "EC405n",
+      "kor": "정화자",
+      "eng": "Purifier"
+    },
+    {
+      "code": "EC406n",
+      "kor": "익스투미나투스",
+      "eng": "Exterminatus"
+    },
+    {
+      "code": "EC501n",
+      "kor": "자동화 공장",
+      "eng": "Automatic Factory"
+    },
+    {
+      "code": "SC101n",
+      "kor": "대선지자 인더리아",
+      "eng": "Great prophet Inderia"
+    },
+    {
+      "code": "SC102n",
+      "kor": "전사장 시반",
+      "eng": "War Chief Shivan"
+    },
+    {
+      "code": "SC201n",
+      "kor": "브라트마의 등대",
+      "eng": "Light house of Bratma"
+    },
+    {
+      "code": "SC202n",
+      "kor": "대 수도원",
+      "eng": "Great monastery"
+    },
+    {
+      "code": "SC203n",
+      "kor": "코덱스 도서관",
+      "eng": "Codex libray"
+    },
+    {
+      "code": "SC301n",
+      "kor": "가네쉬",
+      "eng": "Ganesh"
+    },
+    {
+      "code": "SC302n",
+      "kor": "가루다",
+      "eng": "Garuda"
+    },
+    {
+      "code": "SC303n",
+      "kor": "나라다",
+      "eng": "Narada"
+    },
+    {
+      "code": "SC401n",
+      "kor": "브라마",
+      "eng": "Brama"
+    },
+    {
+      "code": "SC402n",
+      "kor": "사라스와",
+      "eng": "Saraswa"
+    },
+    {
+      "code": "SC403n",
+      "kor": "자티와",
+      "eng": "Jatia"
+    },
+    {
+      "code": "SC404n",
+      "kor": "크샤티",
+      "eng": "Ksati"
+    },
+    {
+      "code": "SC405n",
+      "kor": "바이안",
+      "eng": "Bayan"
+    },
+    {
+      "code": "SC406n",
+      "kor": "수드리아나",
+      "eng": "Sudriana"
+    },
+    {
+      "code": "SC501n",
+      "kor": "만다파",
+      "eng": "Mantapa"
+    },
+    {
+      "code": "SC502n",
+      "kor": "아그니아",
+      "eng": "Agniya"
+    },
+    {
+      "code": "HSC101n",
+      "kor": "알파-1",
+      "eng": "Alpha-1"
+    },
+    {
+      "code": "HSC102n",
+      "kor": "알파-2",
+      "eng": "Alpha-2"
+    },
+    {
+      "code": "HSC201n",
+      "kor": "부화장",
+      "eng": "Hatchery"
+    },
+    {
+      "code": "HSC202n",
+      "kor": "집단 군체",
+      "eng": "SwarmColony"
+    },
+    {
+      "code": "HSC203n",
+      "kor": "우주벌레",
+      "eng": "SpaceWorm"
+    },
+    {
+      "code": "HSC301n",
+      "kor": "앱솔버",
+      "eng": "Absober"
+    },
+    {
+      "code": "HSC302n",
+      "kor": "크라켄",
+      "eng": "Kraken"
+    },
+    {
+      "code": "HSC303n",
+      "kor": "도플러스",
+      "eng": "Doppulus"
+    },
+    {
+      "code": "HSC304n",
+      "kor": "세이비터",
+      "eng": "Sevitor"
+    },
+    {
+      "code": "HSC401n",
+      "kor": "베히모스",
+      "eng": "Behemoth"
+    },
+    {
+      "code": "HSC402n",
+      "kor": "티폰",
+      "eng": "Typhon"
+    },
+    {
+      "code": "HSC403n",
+      "kor": "우나",
+      "eng": "Una"
+    },
+    {
+      "code": "HSC404n",
+      "kor": "마인더",
+      "eng": "Minder"
+    },
+    {
+      "code": "HSC501n",
+      "kor": "황무지",
+      "eng": "Deadland"
+    },
+    {
+      "code": "HC101a",
+      "kor": "인류가 우주로 나간 이후의 최고의 제독입니다.",
+      "eng": "Greatfull admiral since mankind step to space."
+    },
+    {
+      "code": "HC201a",
+      "kor": "우주너머의 위협에 맞서는 최전선입니다.",
+      "eng": "Here is front line against threats beyond space."
+    },
+    {
+      "code": "HC202a",
+      "kor": "인류 연합의 무기와 함대를 생산하는 공장행성입니다.",
+      "eng": "Factory planet that produces weapons and fleets for the Humanity."
+    },
+    {
+      "code": "HC203a",
+      "kor": "기초 테라포밍으로 지구와 흡사한 환경을 갖춘 행성입니다.",
+      "eng": "Planet with an environment similar to Earth."
+    },
+    {
+      "code": "HC204a",
+      "kor": "행성 내부의 자원 채취를 위한 채굴장입니다.",
+      "eng": "Mining site for extracting resources from inside the planet."
+    },
+    {
+      "code": "HC301a",
+      "kor": "인류의 과학기술의 총 집합체 입니다. 강력한 화력과 기동성을 갖춘 전함입니다.",
+      "eng": "Battship of Humanity. FirePower, mobility everything is Perfect."
+    },
+    {
+      "code": "HC302a",
+      "kor": "인류 연합의 함대전을 책임지는 중추입니다.",
+      "eng": "linchpin responsible for the Humanity Union Fleets."
+    },
+    {
+      "code": "HC303a",
+      "kor": "인류 연합의 표준 함선입니다.",
+      "eng": "Standard ship of Humanity Union."
+    },
+    {
+      "code": "HC304a",
+      "kor": "수많은 레이더와 통제장치로 함대의 화력 투사를 지원합니다.",
+      "eng": "Supports firepower projection with detectors and control devices."
+    },
+    {
+      "code": "HC305a",
+      "kor": "병력수송을 위해 개조한 상선입니다.",
+      "eng": "It's just renovated merchant ship."
+    },
+    {
+      "code": "HC401a",
+      "kor": "최고의 훈련과 장비를 갖춘 인류 연합의 최고 전력들 입니다.",
+      "eng": "Best forces of the Humanity, equipped with the best training and weapons."
+    },
+    {
+      "code": "HC402a",
+      "kor": "전투경험이 풍부한 베테랑들입니다.",
+      "eng": "Veterans with extensive combat experience."
+    },
+    {
+      "code": "HC403a",
+      "kor": "열정 가득한 신병들입니다.",
+      "eng": "Recruits with full of passion."
+    },
+    {
+      "code": "HC404a",
+      "kor": "가장 먼저 전장에 투입되는 용맹한 선봉대입니다.",
+      "eng": "Brave vanguards who are the first to enter the battlefield"
+    },
+    {
+      "code": "HC501a",
+      "kor": "무기부터 생필품까지 인류에게 필요한 모든 것을 만드는 장소 입니다.",
+      "eng": "Weapons, stuffs, Everything made in here."
+    },
+    {
+      "code": "EC101a",
+      "kor": "우주의 탄생부터 엘더들의 몰락 모든 것을 지켜봐온 전지전능한 존재입니다.",
+      "eng": "Since start of univers, ruin of Elders untill now, He is alway there."
+    },
+    {
+      "code": "EC201a",
+      "kor": "엘더들의 땅을 수호하는 드론을 생산하는 장소입니다.",
+      "eng": "From here, Protector of Elder's Homes made."
+    },
+    {
+      "code": "EC202a",
+      "kor": "잃어버린 엘더들의 유산이자 신비한 유물들이 그들의 힘을 강화시킵니다.",
+      "eng": "Relic of Forerunners helps Elder's war."
+    },
+    {
+      "code": "EC203a",
+      "kor": "얼마 남지 않은 선조들의 지식이 보관된 장소입니다.",
+      "eng": "This placec stored little remaining knowledge of Forerunner."
+    },
+    {
+      "code": "EC204a",
+      "kor": "선조들이 남겨놓은 거대한 워프 게이트입니다.",
+      "eng": "This Engin was made by thier Forerunner."
+    },
+    {
+      "code": "EC301a",
+      "kor": "고대 엘더들의 선조가 남긴 최고의 유산들로 우주에 존재하는 그 어떤 함선들 보다 강력합니다.",
+      "eng": "The greatest legacy of Forerunners and is more powerful than any other ship in the universe."
+    },
+    {
+      "code": "EC302a",
+      "kor": "잃어버린 그들의 유산로 복구시킨 함선으로 많은 기능이 작동하진 않지만 충분히 위협적입니다.",
+      "eng": "The Ship has been restored to their lost heritage, although many functions not work, still threatening."
+    },
+    {
+      "code": "EC303a",
+      "kor": "엘더들의 우주를 수호하는 드론들 입니다.",
+      "eng": "The Drones Protect Elder's Land"
+    },
+    {
+      "code": "EC401a",
+      "kor": "가장 존경받는 엘더들로 별들의 탄생조차 지켜봐온 존재들입니다.",
+      "eng": "The most respected elders and have even witnessed the birth of stars."
+    },
+    {
+      "code": "EC402a",
+      "kor": "비교적 젊은 엘더들로 경험은 적지만 호전적인 자들입니다.",
+      "eng": "Relatively young Elders with little experience, but They are very aggressive."
+    },
+    {
+      "code": "EC403a",
+      "kor": "엘더들의 땅을 수호하는 전투 드론입니다.",
+      "eng": "Battle Drones Which Protecting Elder's Homes."
+    },
+    {
+      "code": "EC404a",
+      "kor": "항로계산용 드론입니다.",
+      "eng": "The Drone Caculating Navgation."
+    },
+    {
+      "code": "EC405a",
+      "kor": "행성정화를 위해 최선봉에 투입되는 드론입니다.",
+      "eng": "The Drone that is deployed at the forefront of planet purification."
+    },
+    {
+      "code": "EC406a",
+      "kor": "엘더들의 최후의 카드로 모든 것을 파괴하는 거대 폭탄입니다.",
+      "eng": "The Gaint Bomb as Elder's Final decision."
+    },
+    {
+      "code": "EC501a",
+      "kor": "엘더들의 모든 것을 생산하는 자동화된 공장입니다.",
+      "eng": "Fully automatic Factory to make all Elder's supplies."
+    },
+    {
+      "code": "SC101a",
+      "kor": "생티너리의 최고 지도자이자 선지자입니다.",
+      "eng": "The Greatest leader and prophet of Santinary."
+    },
+    {
+      "code": "SC102a",
+      "kor": "모든 생티너리의 전사들의 지도자이자 최고의 전사입니다.",
+      "eng": "The Greast Worrior and War chief of All of Santinary's worriors."
+    },
+    {
+      "code": "SC201a",
+      "kor": "신비로운 힘이 담긴 구조물로 워프공간을 뒤틀리게 합니다.",
+      "eng": "This structure imbued with mysterious power that distorts warp space."
+    },
+    {
+      "code": "SC202a",
+      "kor": "생티너리들의 신앙심이 모이는 장소로 기도소리가 끊기지 않습니다.",
+      "eng": "Praying sound never stop in here as Gathering all of Santinary' faith."
+    },
+    {
+      "code": "SC203a",
+      "kor": "알수 없는 힘이 담긴 그들의 성서를 보관하는 장소입니다.",
+      "eng": "The Place keep their scriptures, which contain unknown powers."
+    },
+    {
+      "code": "SC301a",
+      "kor": "엘더들의 함선의 파편으로 제작된 함선입니다.",
+      "eng": "The ship made from fragments of the Elders' ships."
+    },
+    {
+      "code": "SC302a",
+      "kor": "수많은 생티너리들을 수송하는 함선입니다.",
+      "eng": "The ship that transports numerous Sanctuaries."
+    },
+    {
+      "code": "SC303a",
+      "kor": "조잡하지만 빠르게 생티너리를 수송하는 함선입니다.",
+      "eng": "Crude but fast ship that transports sanctuaries."
+    },
+    {
+      "code": "SC401a",
+      "kor": "생티너리의 사제들로 이들의 존재만으로 사기를 복돋습니다.",
+      "eng": "Priests of the Sanctuary Who boost morale just by their presence."
+    },
+    {
+      "code": "SC402a",
+      "kor": "워프 속 그들의 신과 영접할 수 있는 자들로 성지를 수호하는 자들입니다.",
+      "eng": "They can accept their gods in the Warp and protect the Holy Land."
+    },
+    {
+      "code": "SC403a",
+      "kor": "믿음의 힘으로 부활한 자들로 다시 한번 죽을 때까지 전투에 임합니다.",
+      "eng": "Resurrected by the power of faith and once again fight until death."
+    },
+    {
+      "code": "SC404a",
+      "kor": "생티너리의 전사들로 그들의 광신적 용맹함은 타의 추종을 불허합니다.",
+      "eng": "Sanitnary's worriors, unrivaled in their fanatical bravery."
+    },
+    {
+      "code": "SC405a",
+      "kor": "생티너리의 일꾼들로 모든 생산을 담당합니다.",
+      "eng": "Santinary workers with responsible for all production."
+    },
+    {
+      "code": "SC406a",
+      "kor": "생티너리의 노예계급으로 죽을때까지 일하거나 의식에 희생되는 존재들입니다.",
+      "eng": "Slave class of the Santinary, Only working until death or being sacrificed in rituals."
+    },
+    {
+      "code": "SC501a",
+      "kor": "생티너리의 성물을 보관하는 장소입니다.",
+      "eng": "The Place where the sacred relics of the Sanctuary are kept."
+    },
+    {
+      "code": "SC502a",
+      "kor": "전사들의 혼을 모은 장소로 생티너리에게 신성한 장소입니다.",
+      "eng": "Sacred place for the Santinary as a place where the souls of warriors gather."
+    },
+    {
+      "code": "HSC101a",
+      "kor": "첫번째로 발견된 스웜의 지도자격 생명체입니다.",
+      "eng": "First founded Over lord creature ."
+    },
+    {
+      "code": "HSC102a",
+      "kor": "감염된 엘더로 추정되는 스웜으로 지능이 높은 축에 속합니다.",
+      "eng": "This swarm is presumed to be an infected elder with high intelligence."
+    },
+    {
+      "code": "HSC201a",
+      "kor": "작동원리를 알 수 없는 건물로 수많은 스웜떼거리가 언제나 상주합니다.",
+      "eng": "Building which operating principles are unknown, also numerous swarms are always there"
+    },
+    {
+      "code": "HSC202a",
+      "kor": "우주를 떠다니는 거대한 군집체로 수많은 우주 벌레떼를 몰고 다닙니다.",
+      "eng": "huge colony floating in space, bringing with countless Space swarms"
+    },
+    {
+      "code": "HSC203a",
+      "kor": "행성의 자원을 갉아먹고 사는 거대한 벌레입니다.",
+      "eng": "Huge Worm eating Everything on planet"
+    },
+    {
+      "code": "HSC301a",
+      "kor": "엘더들의 함선까지도 먹어치우는 거대한 괴물입니다.",
+      "eng": "The Huge creatures even being able to eat Elder's Spaceship"
+    },
+    {
+      "code": "HSC302a",
+      "kor": "거대한 우주벌레들로 눈앞의 모든 함선을 파괴합니다.",
+      "eng": "Huge Space worms destory everything on infont of them"
+    },
+    {
+      "code": "HSC303a",
+      "kor": "파괴된 함선들에 기생하는 것들로 알 수 없는 원리로 파괴된 함선을 다시 작동시킵니다.",
+      "eng": "They are parasitic creatures on destroyed ships and operate them again using unknown principles."
+    },
+    {
+      "code": "HSC304a",
+      "kor": "기생벌레들로 부서진 잔해들을 껍질삼아 살아갑니다.",
+      "eng": "Parasitic worm which survives by using the shells of the remains broken"
+    },
+    {
+      "code": "HSC401a",
+      "kor": "지상생물 중 가장 거대한 괴물입니다.",
+      "eng": "largest monster on ground"
+    },
+    {
+      "code": "HSC402a",
+      "kor": "스웜의 가장 중추적인 괴물들로 오로지 공격본능만 남아있습니다.",
+      "eng": "Central creature of the swarm, and only their attacking instinct remains"
+    },
+    {
+      "code": "HSC403a",
+      "kor": "가장 먼저 가장 많이 투입되는 스웜의 사냥개들 입니다.",
+      "eng": "Swarm's hound that are deployed first and most frequently"
+    },
+    {
+      "code": "HSC404a",
+      "kor": "최면성 가스를 내뿜는 위협적인 괴물입니다.",
+      "eng": "The menacing creature that emits hypnotic gas"
+    },
+    {
+      "code": "HSC501a",
+      "kor": "황폐화된 행성에 세워지는 스웜의 건물들 입니다.",
+      "eng": "Swarm buildings built on a deadland planet."
+    },
+    {
+      "code": "HC101b",
+      "kor": "\"레더 제독이 우리함대에 부임했다고? 드디어 제대로된 지휘관이 왔구만!\"",
+      "eng": "\"Finally Admiral Reader who only normal Commander Came to our fleets!\""
+    },
+    {
+      "code": "HC201b",
+      "kor": "\"이곳으로 발령받아 저주받은 모든 영혼들을 기리며...\"",
+      "eng": "\"In memory of all the souls who were cursed and sent here...\""
+    },
+    {
+      "code": "HC202b",
+      "kor": "\"폐병걸려 죽는 노동자는 생각안하나?\"",
+      "eng": "\"Here are no Laber's rights\""
+    },
+    {
+      "code": "HC203b",
+      "kor": "\"푸른별... 그립구나 나의 고향\"",
+      "eng": "\"Green Earth.... I miss my Homeworld\""
+    },
+    {
+      "code": "HC204b",
+      "kor": "\"오늘도 환경 운동가들이 시위 중 입니다.\"",
+      "eng": "\"Environmentalists are protesting today as well\""
+    },
+    {
+      "code": "HC301b",
+      "kor": "\"8연장 플라즈마 캐논앞에 부서지지 않는 외계놈들의 전함은 없더군!\"",
+      "eng": "\"There is no Alien Ship which can hold 8 plasma cannon!\""
+    },
+    {
+      "code": "HC302b",
+      "kor": "\"거주성은 생각도 안한 이딴 함선이 어떻게 제식 함선이 된거야?\"",
+      "eng": "\"How this shit could be a Standard ship?\""
+    },
+    {
+      "code": "HC303b",
+      "kor": "\"이거 설계한 놈은 분명 한번도 안타봤을 거야\"",
+      "eng": "\"Im sure designer of this ship never seen one before\""
+    },
+    {
+      "code": "HC304b",
+      "kor": "\"세금은 이렇게 쓰는거지!\"",
+      "eng": "“\"This is the way How to use our taxs!”\""
+    },
+    {
+      "code": "HC305b",
+      "kor": "\"기도해 이함선은 우주 바퀴벌레도 못견딘다구\"",
+      "eng": "\"Let's pray this ship can't hold even space Roach\""
+    },
+    {
+      "code": "HC401b",
+      "kor": "\"망할 방금 저것들 봤어? 외계인놈들 두개골을 맨손으로 부수더군!\"",
+      "eng": "\"Damn did you see them? They just broke Alien's head with hand!\""
+    },
+    {
+      "code": "HC402b",
+      "kor": "\"전역까지 앞으로도 5년이 남았어...\"",
+      "eng": "\"5years left to end this...\""
+    },
+    {
+      "code": "HC403b",
+      "kor": "\"명령만 내려주십쇼!\"",
+      "eng": "\"Reporting Duty Sir!\""
+    },
+    {
+      "code": "HC404b",
+      "kor": "\"가장 먼저 투입되어 가장 먼저 죽는다!\"",
+      "eng": "\"Going first Dying first!\""
+    },
+    {
+      "code": "HC501b",
+      "kor": "\"저기서 일하는 것보단 군복무가 나을 거야...\"",
+      "eng": "\"Join the Army is better then Work there\""
+    },
+    {
+      "code": "EC101b",
+      "kor": "\"별의 탄생을 지켜본자, 지식의 수호자\"",
+      "eng": "\"Withness watched Briths of stars, Protector of knowledge\""
+    },
+    {
+      "code": "EC201b",
+      "kor": "\"너희 단명종들에게 이정도면 충분하다.\"",
+      "eng": "\"Its enough to you Short livers.\""
+    },
+    {
+      "code": "EC202b",
+      "kor": "\"우리 조상들의 땅이자 우리의 근원 우주의 모든것\"",
+      "eng": "\"Our Forerunner's land, Our orgin, Universe itself\""
+    },
+    {
+      "code": "EC203b",
+      "kor": "\"더러운 네놈들이 함부로 발을 들일 장소가 아니다. 단명종\"",
+      "eng": "\"I dare you to step here Shrot livers\""
+    },
+    {
+      "code": "EC204b",
+      "kor": "\"엘더들이 전 우주를 지배할 수 있었던 근간입니다.\"",
+      "eng": "\"The Reason how Elders can Conquare entire Universe\""
+    },
+    {
+      "code": "EC301b",
+      "kor": "\"보아라 우리 선조들의 유산을\"",
+      "eng": "\"Be hold Our Forerunner's Relic\""
+    },
+    {
+      "code": "EC302b",
+      "kor": "\"단명종들은 우리의 힘을 이해할 수 없다\"",
+      "eng": "\"You can not understand Our Power Short livers\""
+    },
+    {
+      "code": "EC303b",
+      "kor": "\"1111011....\"",
+      "eng": "\"1111011....\""
+    },
+    {
+      "code": "EC401b",
+      "kor": "\"수호자, 집행관, 늙은이들.. 많은 이름으로 불리우지\"",
+      "eng": "\"Guardian, Excutor, Old mans.... We have lots of names\""
+    },
+    {
+      "code": "EC402b",
+      "kor": "\"이제 겨우 300살입니다.\"",
+      "eng": "\"They're just 300 years old\""
+    },
+    {
+      "code": "EC403b",
+      "kor": "\"0100011111....\"",
+      "eng": "\"0100011111....\""
+    },
+    {
+      "code": "EC404b",
+      "kor": "\"1011101....\"",
+      "eng": "\"1011101....\""
+    },
+    {
+      "code": "EC405b",
+      "kor": "\"이들이 지나간 자리엔 아무것도 남지 않습니다.\"",
+      "eng": "\"Behind them there is nothing left\""
+    },
+    {
+      "code": "EC406b",
+      "kor": "\"그 무엇도 남겨두지 않겠다.\"",
+      "eng": "\"Give them nothing\""
+    },
+    {
+      "code": "EC501b",
+      "kor": "\"10111011...\"",
+      "eng": "\"10111011...\""
+    },
+    {
+      "code": "SC101b",
+      "kor": "\"위대하고 자애로우신 대선지자 시여…\"",
+      "eng": "\"Our Greast and merciful Prophet…\""
+    },
+    {
+      "code": "SC102b",
+      "kor": "\"인더리아의 도끼, 전사들의 분노\"",
+      "eng": "\"The Axe of Inderia, Wrath of worriors\""
+    },
+    {
+      "code": "SC201b",
+      "kor": "\"멍청아 3번째 초록색 버튼을 누르라고!\"",
+      "eng": "\"Dumby! I siad Thrid Green button!\""
+    },
+    {
+      "code": "SC202b",
+      "kor": "\"조용히좀 해! 너희만 기도하냐!\"",
+      "eng": "\"Silence! Are you the only ones praying!\"\n\"Silence Are you the only ones praying?\""
+    },
+    {
+      "code": "SC203b",
+      "kor": "\"글도 모르는 놈이 성서는 왜 읽어보겠다는 거야?\"",
+      "eng": "\"Why would you who doesn't know how to read want to read the Bible?\""
+    },
+    {
+      "code": "SC301b",
+      "kor": "\"모두 불태워라!\"",
+      "eng": "\"Burn them all!\""
+    },
+    {
+      "code": "SC302b",
+      "kor": "\"여긴 내자리라고 저리로 가란말이야!\"",
+      "eng": "\"It's my place! Go away!\""
+    },
+    {
+      "code": "SC303b",
+      "kor": "\"방금 누가 떨어진 거 같은데?\"",
+      "eng": "\"I guess someone just got fallen?\""
+    },
+    {
+      "code": "SC401b",
+      "kor": "\"머리를 조아려라!\"",
+      "eng": "\"Bow your head!\""
+    },
+    {
+      "code": "SC402b",
+      "kor": "\"방금 브라트마께서 니놈 머리를 달라고 하신거 같은데!\"",
+      "eng": "\"I guess just got Bratma siad he wants your head!\""
+    },
+    {
+      "code": "SC403b",
+      "kor": "\"한번만 더 반항하면 너를 자티와로 만들겠다!\"",
+      "eng": "\"If you rebel one more time, I will turn you into a Jatiwa!\""
+    },
+    {
+      "code": "SC404b",
+      "kor": "\"브라트마님을 위하여!\"",
+      "eng": "\"For the Bratma!\""
+    },
+    {
+      "code": "SC405b",
+      "kor": "\"다음 생에는 꼭 브라마로 태어나렴!\"",
+      "eng": "\"Born as Brama Next time!\""
+    },
+    {
+      "code": "SC406b",
+      "kor": "\"락슈마와 수드리아나의 공통점은 죽어도 죽어도 더 있다는거지\"",
+      "eng": "\"The common Rockshuma and Sudriana is how many they die there is always more\""
+    },
+    {
+      "code": "SC501b",
+      "kor": "\"브라마들한테 죽고 싶으면 만져도 되\"",
+      "eng": "\"You can touch if you want to die by Bramas\""
+    },
+    {
+      "code": "SC502b",
+      "kor": "\"기다려봐! 여기 어디쯤 메디의 혼이 있을거야…\"",
+      "eng": "\"Wait! Medi's spirit must be here somewhere…I guess\""
+    },
+    {
+      "code": "HSC101b",
+      "kor": "\"저놈이 근처 행성에만 와도 정신이 이상해진다니까\"",
+      "eng": "\"It makes crazy even just It's neighboring planet\""
+    },
+    {
+      "code": "HSC102b",
+      "kor": "\"형제여…\"",
+      "eng": "\"Brother…\""
+    },
+    {
+      "code": "HSC201b",
+      "kor": "\"저것들이 보인다면 근처는 얼씬도 하지마\"",
+      "eng": "\"Never be around with them\""
+    },
+    {
+      "code": "HSC202b",
+      "kor": "\"저것들은 도대체 어디서 나오는거야?\"",
+      "eng": "\"What the hell they came form?\""
+    },
+    {
+      "code": "HSC203b",
+      "kor": "\"땅이 울린다면 그저 지진이길 빌어\"",
+      "eng": "\"If the ground shakes, Let's hope it's just an earthquake\""
+    },
+    {
+      "code": "HSC301b",
+      "kor": "\"전함들을 먹는다고 아니 말 그대로 먹는다니까?\"",
+      "eng": "\"They eat ship Litearlly eating\""
+    },
+    {
+      "code": "HSC302b",
+      "kor": "\"저것들을 본다면 신에게 기도나 해\"",
+      "eng": "\"If you gonna see that Just pray for God\""
+    },
+    {
+      "code": "HSC303b",
+      "kor": "\"내 손으로 자침시킨 함선이 내 눈앞에 다시 나타났어…거대한 눈깔과 함께…\"",
+      "eng": "\"The ship I scuttled with myself reappeared... With huge eyes...\""
+    },
+    {
+      "code": "HSC304b",
+      "kor": "\"애완용으로 가져오지마 제발...\"",
+      "eng": "\"It can not be a pet Dumb ass...\""
+    },
+    {
+      "code": "HSC401b",
+      "kor": "\"조니가 산이 움직인다고 했을 때 믿었어야 했어….\"",
+      "eng": "\"I should believe when Johnny said Mountain is moving...\""
+    },
+    {
+      "code": "HSC402b",
+      "kor": "\"누가 저것들한테 소총이 통한다고 했어?\"",
+      "eng": "\"Who said we can kill them with rifle?\""
+    },
+    {
+      "code": "HSC403b",
+      "kor": "\"누가 개껌으로 길들일 수 있다고 했어?\"",
+      "eng": "\"Who said we can threat them with Dog meat?\""
+    },
+    {
+      "code": "HSC404b",
+      "kor": "\"믿어봐 저것들이 내뿜게 뒷골목 마약보다 좋다니까?\"",
+      "eng": "\"Trust me Its better then Halem's drugs\""
+    },
+    {
+      "code": "HSC501b",
+      "kor": "\"지난번에 저것이 점령한 행성에 가봤는데…젠장…\"",
+      "eng": "\"Last time When I was in their planet…it was damn…\""
+    },
+    {
+      "code": "HC101e",
+      "kor": "모든 전투 시작 전 5의 공격력을 얻습니다.",
+      "eng": "Before All Type of Battle, Gain 5 Attack points"
+    },
+    {
+      "code": "HC201e",
+      "kor": "전투 시작전  4만큼 공격력을 얻습니다.",
+      "eng": "Before Battle, Gain 4 Attack points"
+    },
+    {
+      "code": "HC202e",
+      "kor": "생산력을 3만큼 추가합니다.",
+      "eng": "Add 3 Factory Points"
+    },
+    {
+      "code": "HC203e",
+      "kor": "공장슬롯을 4만큼 추가합니다.",
+      "eng": "Add 4 Factory slots"
+    },
+    {
+      "code": "HC204e",
+      "kor": "행성의 공장슬롯을 없애고 3의 생산력을 얻습니다.",
+      "eng": "Clears a planet's factory slots and gains 3 production."
+    },
+    {
+      "code": "HC304e",
+      "kor": "모든 함대 전투 시작 전 10의 공격력을 얻습니다.",
+      "eng": "Before All of Fleet Battle, Gain 10 Attack Points"
+    },
+    {
+      "code": "HC404e",
+      "kor": "전투 시작전 10만큼 공격력을 얻습니다.",
+      "eng": "Before Battle, Gain 10 Attack points"
+    },
+    {
+      "code": "HC501e",
+      "kor": "1만큼 생산력을 얻습니다.",
+      "eng": "Add 1 Factory Point"
+    },
+    {
+      "code": "EC101e",
+      "kor": "모든 항로의 필요 페이즈 수를 1만큼 줄입니다.",
+      "eng": "Reduces required phases of Every Space way by 1"
+    },
+    {
+      "code": "EC201e",
+      "kor": "전투 시작전 6만큼 공격력을 얻습니다.",
+      "eng": "Before Battle, Gain 6 Attack points"
+    },
+    {
+      "code": "EC202e",
+      "kor": "전투 종료후 파괴된 모든 카드를 덱으로 되돌립니다.",
+      "eng": "After Battle, Recover All Destoryed Card"
+    },
+    {
+      "code": "EC203e",
+      "kor": "지상전투 패배시 모든 공장카드를 파괴합니다.",
+      "eng": "If lose on Ground Battle, Destory All Factory Cards"
+    },
+    {
+      "code": "EC204e",
+      "kor": "연결된 항로의 필요 페이즈 수를 2만큼 줄입니다.",
+      "eng": "Reduces required phases of connected Space way by 2"
+    },
+    {
+      "code": "EC301e",
+      "kor": "전투 시작전 5만큼 공격력을 얻습니다.",
+      "eng": "Before Battle, Gain 5 Attack points"
+    },
+    {
+      "code": "EC401e",
+      "kor": "지상 전투 전 4만큼 공격력을 얻습니다.",
+      "eng": "Before Ground Battle, Gain 4 Attack Points"
+    },
+    {
+      "code": "EC404e",
+      "kor": "연결된 항로의 필요페이즈를 1로 고정합니다.",
+      "eng": "Set the required phase of the connected Space way to 1"
+    },
+    {
+      "code": "EC405e",
+      "kor": "전투 시작전 행성의 모든 공장을 파괴합니다.",
+      "eng": "Before Battle, Destroy all Factory in Planet"
+    },
+    {
+      "code": "EC406e",
+      "kor": "전투 후 모든 카드를 파괴합니다.",
+      "eng": "After Battle, Destory All kind of Card"
+    },
+    {
+      "code": "EC501e",
+      "kor": "1만큼 생산력을 얻습니다.",
+      "eng": "Add 1 Factory Point"
+    },
+    {
+      "code": "SC101e",
+      "kor": "최종 전투력 비교 페이즈를 10만큼 줄입니다.",
+      "eng": "Reduces the final combat power comparison phase by 10"
+    },
+    {
+      "code": "SC102e",
+      "kor": "모든 지상 전투 시작 전 10의 공격력을 얻습니다.",
+      "eng": "Before all of Ground Battle, Gain 10 Attack Points"
+    },
+    {
+      "code": "SC201e",
+      "kor": "적이 연결된 항로를 이용 시 필요 페이즈가 2만큼 증가합니다.",
+      "eng": "Increase required phases of Space way by 2 When Enermy use"
+    },
+    {
+      "code": "SC202e",
+      "kor": "지상 전투 시작 전 적은 10만큼 공격력을 잃습니다.",
+      "eng": "Before Ground Battle, Enemy lose 10 Attack Points"
+    },
+    {
+      "code": "SC203e",
+      "kor": "적은 총공격력을 20만큼 잃습니다.",
+      "eng": "Enermy lose 10 Total Power"
+    },
+    {
+      "code": "SC401e",
+      "kor": "적의 모든 항로의 필요 페이즈 수를 1만큼 늘립니다.",
+      "eng": "Increase required phases of Space way by 1 When Enermy use"
+    },
+    {
+      "code": "SC402e",
+      "kor": "최종 전투력 비교 페이즈를 10만큼 줄입니다.",
+      "eng": "Reduces the final combat power comparison phase by 10"
+    },
+    {
+      "code": "SC404e",
+      "kor": "총 공격력을 10만큼 얻습니다.",
+      "eng": "Gain 10 Total Power"
+    },
+    {
+      "code": "SC405e",
+      "kor": "생산력을 5만큼 얻습니다. \n 총격력을 10 만큼 잃습니다.",
+      "eng": "Gain 5 Factory Point \n Lose 10 Total Power"
+    },
+    {
+      "code": "SC406e",
+      "kor": "생산력을 1만큼 추가합니다.",
+      "eng": "Add 1 Factory Point"
+    },
+    {
+      "code": "SC501e",
+      "kor": "총 공격력을 5만큼 추가합니다.",
+      "eng": "Add 5 Total Power"
+    },
+    {
+      "code": "SC502e",
+      "kor": "모든 지상 전투에서 4만큼 공격력을 얻습니다.",
+      "eng": "Before all of Ground Battle, Gain 4 Attack Points"
+    },
+    {
+      "code": "HSC1e",
+      "kor": "총 공격력을 5만큼 깍습니다.",
+      "eng": "Reduces 5 PowerPoints"
+    },
+    {
+      "code": "HSC101e",
+      "kor": "모든 항로의 필요 페이즈가 1만큼 증가합니다.\n총 공격력을 10만큼 깍습니다.",
+      "eng": "incresed required phases all of Space way by 1\nReduces 10 PowerPoints"
+    },
+    {
+      "code": "HSC102e",
+      "kor": "모든 항로의 필요 페이즈가 1만큼 증가합니다.\n함대 전투 시작전 적은 5만큼 공격력을 잃습니다.",
+      "eng": "incresed required phases all of Space way by 1\nBefore fleet battle, Enemy lose 5 Attack Points"
+    },
+    {
+      "code": "HSC201e",
+      "kor": "전투 종료 후 파괴된 카드를 덱으로 되돌립니다.",
+      "eng": "After Battle, Recover All Destoryed Card"
+    },
+    {
+      "code": "HSC202e",
+      "kor": "모든 함대 전투 시작 전 3의 공격력을 얻습니다.",
+      "eng": "Before All of fleet battle, Gain 3 Attack Points"
+    },
+    {
+      "code": "HSC203e",
+      "kor": "모든 지상 전투 시작 전 3의 공격력을 얻습니다.",
+      "eng": "Before All of ground battle, Gain 3 Attack Points"
+    },
+    {
+      "code": "HSC303e",
+      "kor": "함대 전투 시작 전 적의 공격력을 5만큼 깍습니다.",
+      "eng": "Before fleet battle, reduce Enemy's 5 Attack Points"
+    },
+    {
+      "code": "HSC404e",
+      "kor": "지상 전투 시작 전 적은 5만큼 공격력을 얻습니다.",
+      "eng": "Before Ground Battle, Enemy Gain 5 Attack Points"
+    },
+    {
+      "code": "HSC501e",
+      "kor": "1만큼 생산력을 얻습니다.\n총 공격력을 2만큼 깍습니다.",
+      "eng": "Add 1 Factory Point\nReduces 2 Power Points"
+    },
+    {
+      "code": "NickSet_Title",
+      "kor": "사용할 닉네임을 설정하여 주십시요",
+      "eng": "Set your Nickname"
+    },
+    {
+      "code": "NickSet_Rule",
+      "kor": "최대 한글 8자 영어 16자 입니다. \n 설정한 닉네임은 변경할 수 없습니다. 신중하게 선택해 주세요",
+      "eng": "Max Korean 8 letters, English 16 letters \n You can't change After set"
+    },
+    {
+      "code": "NickSet_Btn",
+      "kor": "확인",
+      "eng": "Confirm"
+    },
+    {
+      "code": "NickSet_Min",
+      "kor": "사용할 닉네임을 입력해 주십시요",
+      "eng": "Here Set your Nickname"
+    },
+    {
+      "code": "Main_Si_Btn",
+      "kor": "시나리오(준비 중)",
+      "eng": "Scenario(TBU)"
+    },
+    {
+      "code": "Main_Du_Btn",
+      "kor": "대전",
+      "eng": "Duel"
+    },
+    {
+      "code": "Main_De_Btn",
+      "kor": "덱 설정",
+      "eng": "Deck Setting"
+    },
+    {
+      "code": "Main_Set_Btn",
+      "kor": "게임 설정",
+      "eng": "Game Setting"
+    },
+    {
+      "code": "Main_Q_Btn",
+      "kor": "종료",
+      "eng": "Quit"
+    },
+    {
+      "code": "Sound1",
+      "kor": "전체음량",
+      "eng": "Master Vol"
+    },
+    {
+      "code": "Sound2",
+      "kor": "배경음악",
+      "eng": "BG Vol"
+    },
+    {
+      "code": "Sound3",
+      "kor": "효과음",
+      "eng": "Effect Vol"
+    },
+    {
+      "code": "InvenSel_Title",
+      "kor": "종족 선택",
+      "eng": "Select Race"
+    },
+    {
+      "code": "DeckRaceSel_Con_Btn",
+      "kor": "선택",
+      "eng": "Chose"
+    },
+    {
+      "code": "DeckSeting_Leader_Title",
+      "kor": "리더 카드",
+      "eng": "Leader Card"
+    },
+    {
+      "code": "DeckSetting_Card_ChosingT",
+      "kor": "소유중인 카드",
+      "eng": "Your Cards"
+    },
+    {
+      "code": "DeckSetting_Card_Search",
+      "kor": "검색",
+      "eng": "Search"
+    },
+    {
+      "code": "CardKind_Btn_All",
+      "kor": "전체",
+      "eng": "All"
+    },
+    {
+      "code": "CardKind_Btn_B",
+      "kor": "함선",
+      "eng": "BattleShip"
+    },
+    {
+      "code": "CardKind_Btn_S",
+      "kor": "군인",
+      "eng": "Soldier"
+    },
+    {
+      "code": "CardKind_Btn_P",
+      "kor": "행성",
+      "eng": "Planet"
+    },
+    {
+      "code": "CardKind_Btn_F",
+      "kor": "공장",
+      "eng": "Factory"
+    },
+    {
+      "code": "DeckWarrning_Text",
+      "kor": "가 부족합니다.",
+      "eng": "is not enough."
+    },
+    {
+      "code": "DeckSetting_DeckT",
+      "kor": "나의 덱",
+      "eng": "My Deck"
+    },
+    {
+      "code": "DeckSetting_QuitBtn",
+      "kor": "나가기",
+      "eng": "Quit"
+    },
+    {
+      "code": "DeckSetting_BackBtn",
+      "kor": "이전 화면",
+      "eng": "Back"
+    },
+    {
+      "code": "DeckSetting_QuitCheck",
+      "kor": "저장하지 않은 변경사항은 저장되지 않습니다. \n 이전화면으로 돌아가시겠습니까?",
+      "eng": "Changing will not saved before save. \n Wann go back?"
+    },
+    {
+      "code": "BG_RaceSel_Con",
+      "kor": "확정",
+      "eng": "Confirm"
+    },
+    {
+      "code": "GetReady_F",
+      "kor": "선공 신청",
+      "eng": "Request First"
+    },
+    {
+      "code": "GetReady_S",
+      "kor": "준비 완료",
+      "eng": "Ready"
+    },
+    {
+      "code": "DeckChose_Btn",
+      "kor": "선택",
+      "eng": "Confirm"
+    },
+    {
+      "code": "TurnBtn",
+      "kor": "턴 종료",
+      "eng": "Turn End"
+    },
+    {
+      "code": "WayBtn",
+      "kor": "항로",
+      "eng": "SpaceWay"
+    },
+    {
+      "code": "SupplyLine",
+      "kor": "보급선",
+      "eng": "SupplyLine"
+    },
+    {
+      "code": "PlanetUI_BS_Btn",
+      "kor": "궤도",
+      "eng": "Orbit"
+    },
+    {
+      "code": "PlanetUI_S_Btn",
+      "kor": "지상",
+      "eng": "Ground"
+    },
+    {
+      "code": "PlanetUI_F_Btn",
+      "kor": "공장",
+      "eng": "Factory"
+    },
+    {
+      "code": "Summon_Check",
+      "kor": "배치 확인",
+      "eng": "Placement"
+    },
+    {
+      "code": "FleetSet_Title",
+      "kor": "함대",
+      "eng": "Fleet"
+    },
+    {
+      "code": "FleetSet_BS",
+      "kor": "함선",
+      "eng": "BattleShip"
+    },
+    {
+      "code": "FleetSet_S",
+      "kor": "수송",
+      "eng": "Transport"
+    },
+    {
+      "code": "FleetSet_Btn",
+      "kor": "함대 구성",
+      "eng": "Forming Fleet"
+    },
+    {
+      "code": "FleetSet_BtnC",
+      "kor": "취소",
+      "eng": "Back"
+    },
+    {
+      "code": "BattleType_BA",
+      "kor": "궤도 공격전",
+      "eng": "Orbit Strike"
+    },
+    {
+      "code": "BattleType_BD",
+      "kor": "궤도 방어전",
+      "eng": "Orbit Defense"
+    },
+    {
+      "code": "BattleType_GA",
+      "kor": "지상 공격전",
+      "eng": "Ground Strike"
+    },
+    {
+      "code": "BattleType_GD",
+      "kor": "지상 방어전",
+      "eng": "Ground Defense"
+    },
+    {
+      "code": "BattleField",
+      "kor": "전장",
+      "eng": "BattleField"
+    },
+    {
+      "code": "SupportFleet",
+      "kor": "함대 지상지원",
+      "eng": "Fleets support"
+    },
+    {
+      "code": "Victory",
+      "kor": "승리!",
+      "eng": "Victory"
+    },
+    {
+      "code": "Draw",
+      "kor": "무승부",
+      "eng": "Draw"
+    },
+    {
+      "code": "Defeat",
+      "kor": "패배!",
+      "eng": "Defeat"
+    },
+    {
+      "code": "Checking_GBattle",
+      "kor": "해당 행성에서 지상 전투가 가능합니다.\n진행하시겠습니까?",
+      "eng": "You can contiue GroundBattle.\nWill you Contiue?"
+    },
+    {
+      "code": "Contiue",
+      "kor": "전투 진행",
+      "eng": "Contiue"
+    },
+    {
+      "code": "Refuse_GB",
+      "kor": "아니요",
+      "eng": "No"
+    },
+    {
+      "code": "GB_Start",
+      "kor": "지상군 투입",
+      "eng": "Deploying Soldiers"
+    },
+    {
+      "code": "Back_Planet",
+      "kor": "행성 보기",
+      "eng": "Back"
+    },
+    {
+      "code": "A_FleetBtn",
+      "kor": "정박중인 함대",
+      "eng": "Anchored Fleet"
+    },
+    {
+      "code": "A_FleetBSBtn",
+      "kor": "함선",
+      "eng": "BattleShips"
+    },
+    {
+      "code": "A_FleetSBtn",
+      "kor": "군인",
+      "eng": "Soldiers"
+    },
+    {
+      "code": "V_Fleet",
+      "kor": "적의 모든 함선을 파괴했습니다!",
+      "eng": "You Destoryed all Enemy's Battle ship cards!"
+    },
+    {
+      "code": "V_Main",
+      "kor": "적의 메인 행성을 점령하였습니다!",
+      "eng": "The enemy’s main planet has been captured!"
+    },
+    {
+      "code": "V_Power",
+      "kor": "최종 전투력 비교에서 승리하였습니다!",
+      "eng": "You won the last Power Compare!"
+    },
+    {
+      "code": "V_Quit",
+      "kor": "적이 게임을 종료하였습니다!",
+      "eng": "The enemy quited the game!"
+    },
+    {
+      "code": "L_Fleet",
+      "kor": "적이 플레이어의 모든 함선을 파괴했습니다!",
+      "eng": "All of your Battle ship cards have been Destoryed!"
+    },
+    {
+      "code": "L_Main",
+      "kor": "적이 플레이어의 메인 행성을 점령하였습니다!",
+      "eng": "Enemy captured your main planet!"
+    },
+    {
+      "code": "L_Power",
+      "kor": "적이 최종 전투력 비교에서 승리하였습니다!",
+      "eng": "Enemy won the last Power Compare!"
+    },
+    {
+      "code": "L_Quit",
+      "kor": "당신은 게임을 포기했습니다!",
+      "eng": "You gave up the game!"
+    },
+    {
+      "code": "PointsLeck",
+      "kor": "현재 생산 포인트가 부족합니다.",
+      "eng": "Not enough Factoty Points."
+    },
+    {
+      "code": "NoSoldier",
+      "kor": "군인카드가 반드시 배치되어 있어야 합니다.",
+      "eng": "There must be placed Soldier card."
+    },
+    {
+      "code": "AloneSoldier",
+      "kor": "군인 카드는 함선 카드없이 궤도에 정박할 수 없습니다.",
+      "eng": "Soldier card can not be placed at ordit without Battleship card."
+    },
+    {
+      "code": "NoSupply",
+      "kor": "보급선이 연결되어 있지 않습니다.",
+      "eng": "There is no connection with Supply line."
+    },
+    {
+      "code": "NoPlanet",
+      "kor": "행성 카드없이 공장카드는 배치될수 없습니다.",
+      "eng": "Fatory card can not be placed without Planet card."
+    },
+    {
+      "code": "EnemyPlanet",
+      "kor": "상대의 행성에 배치할 수 없습니다.",
+      "eng": "Cards can not be placed on Enemy Planet"
+    },
+    {
+      "code": "Aloninfleet",
+      "kor": "군인 카드는 함선 카드없이 함대에 배치될 수 없습니다.",
+      "eng": "Soldier card can not be placed at Fleet without Battleship card."
+    },
+    {
+      "code": "Human_BG_Text1",
+      "kor": "“지금 이순간부터 이 아름다운 푸른별 에는 어떠한 고통과 폭력은 없을 것입니다.\n인간이 이 별에 문명을 이룩한 이후 최초로 단합된 우리는 새로운 세상을 향해 함께 앞으로 나아갈 것입니다.” \n           - 서기 2203년 최초 범국가적 인류 연합 정부 구성을 발표하며 \n초대 인류 연합 정부 의회의장",
+      "eng": null
+    },
+    {
+      "code": "Human_BG_Text2",
+      "kor": "태양계 지구에 기반을 둔 인류는 이전까지 끝없는 분쟁과 고통을 낳아왔습니다. 모든 것을 끝내 버릴 수도 있었던 3번째 대 전쟁 이후 인류는 그 이전까지 상상도 하지 못했던 화합과 단합을 이루어 냈고 그 이전까지 볼 수 없었던 속도로 과학과 문명을 발전시켰습니다. 우주 너머의 행성들을 개척하며 그들의 세력을 넓혀 나갔고 곧 그들의 영역은 자신들의 모행성이 속한 태양계를 넘어섰습니다.\n 황금기를 이어 나가던 인류에겐 또 다시 한번 위기가 찾아왔습니다. 그들은 이 넓디 넓은 우주에 혼자가 아니란 사실을 깨달았습니다. 또한 인류가 오랜 역사와 전통이라 자부하는 모든 것들이 그들에 비하면 그저 어린아이의 어리광에 불과 할 정도라는 것도…\n 연합 정부는 곧바로 대책회의에 들어 갔고 그들이 조우한 외계의 종족들과 전쟁은 생각보다 빠르게 진행되었습니다. 수백 년간 황금기를 누린 이 우주의 신생 종족의 앞길은 앞으로 어떻게 진행될까요?",
+      "eng": null
+    },
+    {
+      "code": "Elder_BG_Text1",
+      "kor": "“선대의 과오는 우리 모두가 짊어 져야할 짐 이자 우리의 죄다. \n모든 은하의 모든 종족 중 그 누구도 우리의 역사를 이해할 수 없을 거다.”\n- 150번 째 황제 '참회자’ 벨라리안",
+      "eng": null
+    },
+    {
+      "code": "Elder_BG_Text2",
+      "kor": "최초의 우주에 빛이 태어날 때 함께 태어났다고 하는 이들은 아마도 전 우주에서 가장 오래된 역사를 지닌 종족일 겁니다. 불로불사의 육체를 지닌 그들은 상상조차 할 수 없는 아득한 기술과 문화를 발전시켜 한 때는 존재하는 모든 은하의 지배자였습니다. 하지만 그들의 기술과 문화는 오히려 그들의 오만함에 빠져 몰락을 부추겼고 결국 자신들이 일으킨 내전에서 모든 것을 잃었습니다. 내전 이후 이들은 자신들의 찬란한 기술과 문화를 거의 잃어 버리고 급격하게 인구가 감소했고 극심한 혼란에 빠졌습니다. \n 현재의 엘더들은 광적으로 그들의 조상과 자신들의 영역을 수호하는데 집착합니다. 다른 우주의 종족들을 벌레 취급하며 오만함에 빠져 사는 것이 그들의 가장 큰 특징입니다. 그도 그럴 것이 인류가 처음 도구를 사용한 순간 부터 지금까지의 세월은 엘더들의 젊은 세대들이 살아온 세월과 비슷한 수준이기 때문입니다.\n 엘더들은 점점 자신들의 영역으로 다가오는 다른 종족들이 거슬리기 시작했습니다.\n그들은 단명종들에게 관심 없는 척 고고하게 굴지만 극심한 인력 부족으로 인한 군사력 부재와 오만한 그들의 성격 문제는 그 누구도 언급하려 하지 않습니다…",
+      "eng": null
+    },
+    {
+      "code": "Saint_BG_Text1",
+      "kor": "\"브라트마의 빛이 우주를 밝히니 우리의 분노와 믿음은 보상받으리라.”\n-생티너리 코덱스 1장1절",
+      "eng": null
+    },
+    {
+      "code": "Saint_BG_Text2",
+      "kor": "과거 엘더들이 개척한 한 행성의 원시 종족이었던 그들은 엘더들의 관심조차 받지 못할 정도의 미개한 야만족들이었습니다. 하지만 위대한 그들이 오만함에 빠져 스스로 내전을 일으키자 그들은 자신들의 파벌에 힘이 될 수 있는 외계 종족들을 찾기 시작했습니다. 브라트마라고 불리우는 한 엘더는 생티너리들에게 관심을 보였고, 그들의 잠재력을 높게 평가하여 그들에게 기술과 문명을 제공해 그들을 발전 시켰습니다. 브라트마는 그들을 통제하기 위해 자신을 숭배하는 광신적인 종교를 전파하였고 지금의 생티너리는 그 종교를 절대적으로 숭배하게 되었습니다.\n 엘더들의 내전이 끝이 나고 온 우주가 황폐해진 후 브라트마 또한 자취를 감추었습니다. 하지만 생티너리들은 그들의 종교에 대한 의심은 커녕 브라트마의 의지를 받드는 유일한 종족이라는 광신 아래에 그의 의지를 전파하고 그를 찾기 위한 여정을 시작하였습니다.\n 생티너리는 고대 엘더들의 기술로 만들어진 “브라트마의 빛＂이라는 고대 병기를 지니고 은하계를 유랑하며 그의 의지를 전파합니다. 문제는 이들이 말하는 그의 의지가 고대 병기를 활용하여 모든 은하계를 불태우는 것입니다. 또한 이들은 다른 이종족과는 일체의 외교도 하지 않고 있다는 것 또한 커다란 문제입니다…",
+      "eng": null
+    },
+    {
+      "code": "Hive_BG_Text1",
+      "kor": "“대화를 시도하지 말고 발견 즉시 응전 태세에 돌입한다.”\n-인류연합 ‘우주 전투 수칙 하이브 스웜＇",
+      "eng": null
+    },
+    {
+      "code": "Hive_BG_Text2",
+      "kor": "이들에 대한 정보는 소문만 자자합니다. 엘더들이 과거 내전을 일으킬 당시 사용하기 위해 만들어진 생체 병기라는 소문, 우주의 전지적 존재가 모두를 벌하기 위해 보낸 악마들이란 소문, 우주방사능에 찌든 바퀴벌레가 진화했다는 소문… 등등\n어느 날 갑작스럽게 우주에 나타난 이들은 지나간 자리에 생명의 흔적을 단 하나도 남기지 않고 먹어 치우며 온 우주의 모든 행성들을 목표로 삼습니다. \n 얼핏 보면 어떠한 지능도 없이 본능에 따르는 듯 보이지만 인류와 엘더들의 연구는 이들을 지휘하는 어떠한 절대적 존재가 있는 것 같다고 보고합니다. 그 전능한 엘더들 조차 아직까지 이들의 기원을 알지 못합니다. 그들이 언제 나타났고 목적이 무엇인지는 은하계의 가장 커다란 미스터리 중 하나입니다.\n 은하의 모든 종족들에게 적대적인 이들은 파도와 같이 몰려와 모든 것을 휩씁니다. 엘더들 또한 이들에 대한 두려움에 방비책을 갈구하며, 이들은 어쩌면 현재 우주가 마주한 가장 위험하고 큰 위협일 지도 모릅니다.",
+      "eng": null
+    },
+    {
+      "code": "QuitGame_Btn",
+      "kor": "포기하고 나가기",
+      "eng": "Give up the Game"
+    },
+    {
+      "code": "Grave_Quit",
+      "kor": "나가기",
+      "eng": "Quit"
+    },
+    {
+      "code": "BackGame_Btn",
+      "kor": "게임으로 돌아가기",
+      "eng": "Return to Game"
+    },
+    {
+      "code": "QuitGameCheck",
+      "kor": "게임을 포기하시겠습니까?\n 포기 시 패배처리됩니다.",
+      "eng": "Are you gonna give up the Game?\n It will be consider to lose."
+    },
+    {
+      "code": "Quit_Btn",
+      "kor": "나가기",
+      "eng": "Close"
+    },
+    {
+      "code": "Game_Set",
+      "kor": "게임 설정",
+      "eng": "Settings"
+    },
+    {
+      "code": "Offline_Du_Btn",
+      "kor": "오프라인 대전",
+      "eng": "Offline Duel"
+    },
+    {
+      "code": "Online_Du_Btn",
+      "kor": "온라인 대전",
+      "eng": "Online Duel"
+    },
+    {
+      "code": "Offline_Guide",
+      "kor": "한 기기로 두 플레이어가 번갈아 플레이하며 대결합니다.",
+      "eng": "Two players take turns playing on the same device and compete against each other."
+    },
+    {
+      "code": "Online_Guide",
+      "kor": "네크워크에서 다른 플레이어를 찾아 대결합니다.",
+      "eng": "Players compete by finding an opponent through the network."
+    },
+    {
+      "code": "Menu_Confirm_Btn",
+      "kor": "확정",
+      "eng": "Confirm"
+    }
+  ]
+}

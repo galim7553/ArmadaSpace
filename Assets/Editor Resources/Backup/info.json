@@ -1,0 +1,2064 @@
+{
+  "cardInfos": [
+    {
+      "uniqueCode": 10101,
+      "cardType": 0,
+      "cardNameCode": "HC101n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        101011
+      ],
+      "descriptionCode": "HC101a",
+      "speechCode": "HC101b",
+      "abilityDecsriptionCode": "HC101e",
+      "portraitResPath": "Human_Raeder",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10201,
+      "cardType": 1,
+      "cardNameCode": "HC201n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        102011
+      ],
+      "descriptionCode": "HC201a",
+      "speechCode": "HC201b",
+      "abilityDecsriptionCode": "HC201e",
+      "portraitResPath": "Human_Outpost",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10202,
+      "cardType": 1,
+      "cardNameCode": "HC202n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        102021
+      ],
+      "descriptionCode": "HC202a",
+      "speechCode": "HC202b",
+      "abilityDecsriptionCode": "HC202e",
+      "portraitResPath": "Human_FP",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10203,
+      "cardType": 1,
+      "cardNameCode": "HC203n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        102031
+      ],
+      "descriptionCode": "HC203a",
+      "speechCode": "HC203b",
+      "abilityDecsriptionCode": "HC203e",
+      "portraitResPath": "Human_Terrarium",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10204,
+      "cardType": 1,
+      "cardNameCode": "HC204n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        102041,
+        102042
+      ],
+      "descriptionCode": "HC204a",
+      "speechCode": "HC204b",
+      "abilityDecsriptionCode": "HC204e",
+      "portraitResPath": "Human_DP",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10301,
+      "cardType": 2,
+      "cardNameCode": "HC301n",
+      "requiredProductivity": 11,
+      "damage": 35,
+      "abilityCodes": [],
+      "descriptionCode": "HC301a",
+      "speechCode": "HC301b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_BCP",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10302,
+      "cardType": 2,
+      "cardNameCode": "HC302n",
+      "requiredProductivity": 6,
+      "damage": 19,
+      "abilityCodes": [],
+      "descriptionCode": "HC302a",
+      "speechCode": "HC302b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_LCR",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10303,
+      "cardType": 2,
+      "cardNameCode": "HC303n",
+      "requiredProductivity": 3,
+      "damage": 10,
+      "abilityCodes": [],
+      "descriptionCode": "HC303a",
+      "speechCode": "HC303b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_DTM",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10304,
+      "cardType": 2,
+      "cardNameCode": "HC304n",
+      "requiredProductivity": 10,
+      "damage": 25,
+      "abilityCodes": [
+        103041
+      ],
+      "descriptionCode": "HC304a",
+      "speechCode": "HC304b",
+      "abilityDecsriptionCode": "HC304e",
+      "portraitResPath": "Human_ADS",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10305,
+      "cardType": 2,
+      "cardNameCode": "HC305n",
+      "requiredProductivity": 1,
+      "damage": 1,
+      "abilityCodes": [],
+      "descriptionCode": "HC305a",
+      "speechCode": "HC305b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_Transport",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10401,
+      "cardType": 3,
+      "cardNameCode": "HC401n",
+      "requiredProductivity": 10,
+      "damage": 14,
+      "abilityCodes": [],
+      "descriptionCode": "HC401a",
+      "speechCode": "HC401b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_RS",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10402,
+      "cardType": 3,
+      "cardNameCode": "HC402n",
+      "requiredProductivity": 4,
+      "damage": 7,
+      "abilityCodes": [],
+      "descriptionCode": "HC402a",
+      "speechCode": "HC402b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_ST",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10403,
+      "cardType": 3,
+      "cardNameCode": "HC403n",
+      "requiredProductivity": 1,
+      "damage": 2,
+      "abilityCodes": [],
+      "descriptionCode": "HC403a",
+      "speechCode": "HC403b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Human_SS",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10404,
+      "cardType": 3,
+      "cardNameCode": "HC404n",
+      "requiredProductivity": 8,
+      "damage": 8,
+      "abilityCodes": [
+        104041
+      ],
+      "descriptionCode": "HC404a",
+      "speechCode": "HC404b",
+      "abilityDecsriptionCode": "HC404e",
+      "portraitResPath": "Human_Vanguard",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 10501,
+      "cardType": 4,
+      "cardNameCode": "HC501n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        105011
+      ],
+      "descriptionCode": "HC501a",
+      "speechCode": "HC501b",
+      "abilityDecsriptionCode": "HC501e",
+      "portraitResPath": "Human_Factory",
+      "speciesType": 0
+    },
+    {
+      "uniqueCode": 20101,
+      "cardType": 0,
+      "cardNameCode": "EC101n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        201011
+      ],
+      "descriptionCode": "EC101a",
+      "speechCode": "EC101b",
+      "abilityDecsriptionCode": "EC101e",
+      "portraitResPath": "Elder_Arkadian",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20201,
+      "cardType": 1,
+      "cardNameCode": "EC201n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        202011
+      ],
+      "descriptionCode": "EC201a",
+      "speechCode": "EC201b",
+      "abilityDecsriptionCode": "EC201e",
+      "portraitResPath": "Elder_DronControler",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20202,
+      "cardType": 1,
+      "cardNameCode": "EC202n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        202021
+      ],
+      "descriptionCode": "EC202a",
+      "speechCode": "EC202b",
+      "abilityDecsriptionCode": "EC202e",
+      "portraitResPath": "Elder_Ruins",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20203,
+      "cardType": 1,
+      "cardNameCode": "EC203n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        202031
+      ],
+      "descriptionCode": "EC203a",
+      "speechCode": "EC203b",
+      "abilityDecsriptionCode": "EC203e",
+      "portraitResPath": "Elder_Librey",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20204,
+      "cardType": 1,
+      "cardNameCode": "EC204n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        202041
+      ],
+      "descriptionCode": "EC204a",
+      "speechCode": "EC204b",
+      "abilityDecsriptionCode": "EC204e",
+      "portraitResPath": "Elder_WrapGate",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20301,
+      "cardType": 2,
+      "cardNameCode": "EC301n",
+      "requiredProductivity": 15,
+      "damage": 45,
+      "abilityCodes": [
+        203011
+      ],
+      "descriptionCode": "EC301a",
+      "speechCode": "EC301b",
+      "abilityDecsriptionCode": "EC301e",
+      "portraitResPath": "Elder_Wisdom",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20302,
+      "cardType": 2,
+      "cardNameCode": "EC302n",
+      "requiredProductivity": 9,
+      "damage": 27,
+      "abilityCodes": [],
+      "descriptionCode": "EC302a",
+      "speechCode": "EC302b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Elder_Prophecy",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20303,
+      "cardType": 2,
+      "cardNameCode": "EC303n",
+      "requiredProductivity": 4,
+      "damage": 13,
+      "abilityCodes": [],
+      "descriptionCode": "EC303a",
+      "speechCode": "EC303b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Elder_OverWatcher",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20401,
+      "cardType": 3,
+      "cardNameCode": "EC401n",
+      "requiredProductivity": 12,
+      "damage": 25,
+      "abilityCodes": [
+        204011
+      ],
+      "descriptionCode": "EC401a",
+      "speechCode": "EC401b",
+      "abilityDecsriptionCode": "EC401e",
+      "portraitResPath": "Elder_Excutor",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20402,
+      "cardType": 3,
+      "cardNameCode": "EC402n",
+      "requiredProductivity": 6,
+      "damage": 11,
+      "abilityCodes": [],
+      "descriptionCode": "EC402a",
+      "speechCode": "EC402b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Elder_Librarian",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20403,
+      "cardType": 3,
+      "cardNameCode": "EC403n",
+      "requiredProductivity": 2,
+      "damage": 3,
+      "abilityCodes": [],
+      "descriptionCode": "EC403a",
+      "speechCode": "EC403b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Elder_Gurdian",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20404,
+      "cardType": 3,
+      "cardNameCode": "EC404n",
+      "requiredProductivity": 10,
+      "damage": 1,
+      "abilityCodes": [
+        204041
+      ],
+      "descriptionCode": "EC404a",
+      "speechCode": "EC404b",
+      "abilityDecsriptionCode": "EC404e",
+      "portraitResPath": "Elder_Wdrone",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20405,
+      "cardType": 3,
+      "cardNameCode": "EC405n",
+      "requiredProductivity": 5,
+      "damage": 5,
+      "abilityCodes": [
+        204051
+      ],
+      "descriptionCode": "EC405a",
+      "speechCode": "EC405b",
+      "abilityDecsriptionCode": "EC405e",
+      "portraitResPath": "Elder_Purifier",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20406,
+      "cardType": 3,
+      "cardNameCode": "EC406n",
+      "requiredProductivity": 15,
+      "damage": 1,
+      "abilityCodes": [
+        204061
+      ],
+      "descriptionCode": "EC406a",
+      "speechCode": "EC406b",
+      "abilityDecsriptionCode": "EC406e",
+      "portraitResPath": "Elder_Disturber",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 20501,
+      "cardType": 4,
+      "cardNameCode": "EC501n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        205011
+      ],
+      "descriptionCode": "EC501a",
+      "speechCode": "EC501b",
+      "abilityDecsriptionCode": "EC501e",
+      "portraitResPath": "Elder_Factory",
+      "speciesType": 1
+    },
+    {
+      "uniqueCode": 30101,
+      "cardType": 0,
+      "cardNameCode": "SC101n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        301011
+      ],
+      "descriptionCode": "SC101a",
+      "speechCode": "SC101b",
+      "abilityDecsriptionCode": "SC101e",
+      "portraitResPath": "Saint_Inderia",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30102,
+      "cardType": 0,
+      "cardNameCode": "SC102n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        301021
+      ],
+      "descriptionCode": "SC102a",
+      "speechCode": "SC102b",
+      "abilityDecsriptionCode": "SC102e",
+      "portraitResPath": "Saint_Shivan",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30201,
+      "cardType": 1,
+      "cardNameCode": "SC201n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        302011
+      ],
+      "descriptionCode": "SC201a",
+      "speechCode": "SC201b",
+      "abilityDecsriptionCode": "SC201e",
+      "portraitResPath": "Saint_Lighthouse",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30202,
+      "cardType": 1,
+      "cardNameCode": "SC202n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        302021
+      ],
+      "descriptionCode": "SC202a",
+      "speechCode": "SC202b",
+      "abilityDecsriptionCode": "SC202e",
+      "portraitResPath": "Saint_GMonastery",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30203,
+      "cardType": 1,
+      "cardNameCode": "SC203n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        302031
+      ],
+      "descriptionCode": "SC203a",
+      "speechCode": "SC203b",
+      "abilityDecsriptionCode": "SC203e",
+      "portraitResPath": "Saint_Codex",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30301,
+      "cardType": 2,
+      "cardNameCode": "SC301n",
+      "requiredProductivity": 30,
+      "damage": 15,
+      "abilityCodes": [],
+      "descriptionCode": "SC301a",
+      "speechCode": "SC301b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Saint_Ganesh",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30302,
+      "cardType": 2,
+      "cardNameCode": "SC302n",
+      "requiredProductivity": 20,
+      "damage": 10,
+      "abilityCodes": [],
+      "descriptionCode": "SC302a",
+      "speechCode": "SC302b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Saint_Garuda",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30303,
+      "cardType": 2,
+      "cardNameCode": "SC303n",
+      "requiredProductivity": 10,
+      "damage": 3,
+      "abilityCodes": [],
+      "descriptionCode": "SC303a",
+      "speechCode": "SC303b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Saint_Narada",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30401,
+      "cardType": 3,
+      "cardNameCode": "SC401n",
+      "requiredProductivity": 30,
+      "damage": 15,
+      "abilityCodes": [
+        304011
+      ],
+      "descriptionCode": "SC401a",
+      "speechCode": "SC401b",
+      "abilityDecsriptionCode": "SC401e",
+      "portraitResPath": "Saint_Brama",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30402,
+      "cardType": 3,
+      "cardNameCode": "SC402n",
+      "requiredProductivity": 20,
+      "damage": 5,
+      "abilityCodes": [
+        304021
+      ],
+      "descriptionCode": "SC402a",
+      "speechCode": "SC402b",
+      "abilityDecsriptionCode": "SC402e",
+      "portraitResPath": "Saint_Saraswa",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30403,
+      "cardType": 3,
+      "cardNameCode": "SC403n",
+      "requiredProductivity": 10,
+      "damage": 3,
+      "abilityCodes": [],
+      "descriptionCode": "SC403a",
+      "speechCode": "SC403b",
+      "abilityDecsriptionCode": null,
+      "portraitResPath": "Saint_Jatia",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30404,
+      "cardType": 3,
+      "cardNameCode": "SC404n",
+      "requiredProductivity": 20,
+      "damage": 10,
+      "abilityCodes": [
+        304041
+      ],
+      "descriptionCode": "SC404a",
+      "speechCode": "SC404b",
+      "abilityDecsriptionCode": "SC404e",
+      "portraitResPath": "Saint_Ksati",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30405,
+      "cardType": 3,
+      "cardNameCode": "SC405n",
+      "requiredProductivity": 10,
+      "damage": 1,
+      "abilityCodes": [
+        304051,
+        304052
+      ],
+      "descriptionCode": "SC405a",
+      "speechCode": "SC405b",
+      "abilityDecsriptionCode": "SC405e",
+      "portraitResPath": "Saint_Bayan",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30406,
+      "cardType": 3,
+      "cardNameCode": "SC406n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        304061
+      ],
+      "descriptionCode": "SC406a",
+      "speechCode": "SC406b",
+      "abilityDecsriptionCode": "SC406e",
+      "portraitResPath": "Saint_Sudria",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30501,
+      "cardType": 4,
+      "cardNameCode": "SC501n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        305011
+      ],
+      "descriptionCode": "SC501a",
+      "speechCode": "SC501b",
+      "abilityDecsriptionCode": "SC501e",
+      "portraitResPath": "Saint_Mantapa",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 30502,
+      "cardType": 4,
+      "cardNameCode": "SC502n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        305012
+      ],
+      "descriptionCode": "SC502a",
+      "speechCode": "SC502b",
+      "abilityDecsriptionCode": "SC502e",
+      "portraitResPath": "Saint_Agniya",
+      "speciesType": 2
+    },
+    {
+      "uniqueCode": 40101,
+      "cardType": 0,
+      "cardNameCode": "HSC101n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        401011,
+        401012
+      ],
+      "descriptionCode": "HSC101a",
+      "speechCode": "HSC101b",
+      "abilityDecsriptionCode": "HSC101e",
+      "portraitResPath": "Hive_Alpha-1",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40102,
+      "cardType": 0,
+      "cardNameCode": "HSC102n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        401021,
+        401022
+      ],
+      "descriptionCode": "HSC102a",
+      "speechCode": "HSC102b",
+      "abilityDecsriptionCode": "HSC102e",
+      "portraitResPath": "Hive_Alpha-2",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40201,
+      "cardType": 1,
+      "cardNameCode": "HSC201n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        402011
+      ],
+      "descriptionCode": "HSC201a",
+      "speechCode": "HSC201b",
+      "abilityDecsriptionCode": "HSC201e",
+      "portraitResPath": "Hive_Hatchery",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40202,
+      "cardType": 1,
+      "cardNameCode": "HSC202n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        402021
+      ],
+      "descriptionCode": "HSC202a",
+      "speechCode": "HSC202b",
+      "abilityDecsriptionCode": "HSC202e",
+      "portraitResPath": "Hive_SwarmColony",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40203,
+      "cardType": 1,
+      "cardNameCode": "HSC203n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        402031
+      ],
+      "descriptionCode": "HSC203a",
+      "speechCode": "HSC203b",
+      "abilityDecsriptionCode": "HSC203e",
+      "portraitResPath": "Hive_SpaceWorm",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40301,
+      "cardType": 2,
+      "cardNameCode": "HSC301n",
+      "requiredProductivity": 8,
+      "damage": 28,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC301a",
+      "speechCode": "HSC301b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Absorber",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40302,
+      "cardType": 2,
+      "cardNameCode": "HSC302n",
+      "requiredProductivity": 4,
+      "damage": 18,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC302a",
+      "speechCode": "HSC302b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Kraken",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40303,
+      "cardType": 2,
+      "cardNameCode": "HSC303n",
+      "requiredProductivity": 4,
+      "damage": 15,
+      "abilityCodes": [
+        401,
+        403031
+      ],
+      "descriptionCode": "HSC303a",
+      "speechCode": "HSC303b",
+      "abilityDecsriptionCode": "HSC303e",
+      "portraitResPath": "Hive_Doppulus",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40304,
+      "cardType": 2,
+      "cardNameCode": "HSC304n",
+      "requiredProductivity": 1,
+      "damage": 6,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC304a",
+      "speechCode": "HSC304b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Sevitor",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40401,
+      "cardType": 3,
+      "cardNameCode": "HSC401n",
+      "requiredProductivity": 8,
+      "damage": 15,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC401a",
+      "speechCode": "HSC401b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Behemoth",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40402,
+      "cardType": 3,
+      "cardNameCode": "HSC402n",
+      "requiredProductivity": 4,
+      "damage": 8,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC402a",
+      "speechCode": "HSC402b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Tank",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40403,
+      "cardType": 3,
+      "cardNameCode": "HSC403n",
+      "requiredProductivity": 1,
+      "damage": 3,
+      "abilityCodes": [
+        401
+      ],
+      "descriptionCode": "HSC403a",
+      "speechCode": "HSC403b",
+      "abilityDecsriptionCode": "HSC1e",
+      "portraitResPath": "Hive_Una",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40404,
+      "cardType": 3,
+      "cardNameCode": "HSC404n",
+      "requiredProductivity": 2,
+      "damage": 8,
+      "abilityCodes": [
+        401,
+        404041
+      ],
+      "descriptionCode": "HSC404a",
+      "speechCode": "HSC404b",
+      "abilityDecsriptionCode": "HSC404e",
+      "portraitResPath": "Hive_Minder",
+      "speciesType": 3
+    },
+    {
+      "uniqueCode": 40501,
+      "cardType": 4,
+      "cardNameCode": "HSC501n",
+      "requiredProductivity": 0,
+      "damage": 0,
+      "abilityCodes": [
+        405011
+      ],
+      "descriptionCode": "HSC501a",
+      "speechCode": "HSC501b",
+      "abilityDecsriptionCode": "HSC501e",
+      "portraitResPath": "Hive_Deadland",
+      "speciesType": 3
+    }
+  ],
+  "abilityInfos": [
+    {
+      "uniqueCode": 101011,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 5,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 102011,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 4,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 102021,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 3,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 102031,
+      "abilityType": 3,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 4,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 102041,
+      "abilityType": 3,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -100,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 102042,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 3,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 103041,
+      "abilityType": 0,
+      "chanceType": 2,
+      "targetType": 1,
+      "abilityValue": 10,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 104041,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 10,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 105011,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 201011,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 202011,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 6,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 202021,
+      "abilityType": 6,
+      "chanceType": 8,
+      "targetType": 1,
+      "abilityValue": 0,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 202031,
+      "abilityType": 7,
+      "chanceType": 7,
+      "targetType": 1,
+      "abilityValue": 0,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 202041,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 5,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 203011,
+      "abilityType": 0,
+      "chanceType": 1,
+      "targetType": 1,
+      "abilityValue": 5,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 204011,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 1,
+      "abilityValue": 4,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 204041,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -100,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 204051,
+      "abilityType": 7,
+      "chanceType": 8,
+      "targetType": 2,
+      "abilityValue": 0,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 204061,
+      "abilityType": 8,
+      "chanceType": 8,
+      "targetType": 0,
+      "abilityValue": 0,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 205011,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 301011,
+      "abilityType": 5,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -10,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 301021,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 1,
+      "abilityValue": 15,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 302011,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 2,
+      "abilityValue": 2,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 302021,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 2,
+      "abilityValue": -10,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 302031,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 2,
+      "abilityValue": -20,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304011,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 2,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304021,
+      "abilityType": 5,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -10,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304041,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 10,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304051,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 5,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304052,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -10,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 304061,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 305011,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 5,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 305012,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 1,
+      "abilityValue": 4,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 401011,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 401012,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -10,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 401021,
+      "abilityType": 0,
+      "chanceType": 2,
+      "targetType": 2,
+      "abilityValue": -5,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 401022,
+      "abilityType": 2,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 402011,
+      "abilityType": 6,
+      "chanceType": 8,
+      "targetType": 1,
+      "abilityValue": 0,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 402021,
+      "abilityType": 0,
+      "chanceType": 2,
+      "targetType": 1,
+      "abilityValue": 3,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 402031,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 1,
+      "abilityValue": 3,
+      "rangeType": 1
+    },
+    {
+      "uniqueCode": 403031,
+      "abilityType": 0,
+      "chanceType": 2,
+      "targetType": 2,
+      "abilityValue": -5,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 403032,
+      "abilityType": 6,
+      "chanceType": 8,
+      "targetType": 1,
+      "abilityValue": 0,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 404041,
+      "abilityType": 0,
+      "chanceType": 3,
+      "targetType": 2,
+      "abilityValue": 5,
+      "rangeType": 2
+    },
+    {
+      "uniqueCode": 405011,
+      "abilityType": 1,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": 1,
+      "rangeType": 0
+    },
+    {
+      "uniqueCode": 401,
+      "abilityType": 4,
+      "chanceType": 0,
+      "targetType": 1,
+      "abilityValue": -5,
+      "rangeType": 0
+    }
+  ],
+  "planetInfos": [
+    {
+      "uniqueCode": 50101,
+      "posX": -5.5,
+      "posY": -1.5,
+      "planetType": 1,
+      "ownerCode": 0,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50102,
+      "posX": -2.7,
+      "posY": -2.4,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50103,
+      "posX": -5,
+      "posY": 2,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50104,
+      "posX": -2.5,
+      "posY": 0.3,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50105,
+      "posX": 0,
+      "posY": -1.6,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 5,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50106,
+      "posX": 0.2,
+      "posY": 2,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 5,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50107,
+      "posX": 3,
+      "posY": 0.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50108,
+      "posX": 4,
+      "posY": 2.8,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50109,
+      "posX": 5,
+      "posY": -1.8,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50110,
+      "posX": 5,
+      "posY": 1.4,
+      "planetType": 1,
+      "ownerCode": 1,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 90101,
+      "posX": -4.5,
+      "posY": 0,
+      "planetType": 1,
+      "ownerCode": 0,
+      "factorySlot": 20,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 90102,
+      "posX": 0,
+      "posY": 0,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 20,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 90103,
+      "posX": 5,
+      "posY": 0,
+      "planetType": 1,
+      "ownerCode": 1,
+      "factorySlot": 20,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50201,
+      "posX": -5.5,
+      "posY": -2.5,
+      "planetType": 1,
+      "ownerCode": 0,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50202,
+      "posX": -5.6,
+      "posY": 2.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 6,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50203,
+      "posX": -3.5,
+      "posY": -1.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50204,
+      "posX": -4,
+      "posY": 0.6,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50205,
+      "posX": -1.7,
+      "posY": -2.4,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50206,
+      "posX": -1.6,
+      "posY": -0.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50207,
+      "posX": -1,
+      "posY": 2,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50208,
+      "posX": 1,
+      "posY": -2,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50209,
+      "posX": 1.5,
+      "posY": 0.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50210,
+      "posX": 1.5,
+      "posY": 2.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50211,
+      "posX": 4,
+      "posY": -1,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 3,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50212,
+      "posX": 3.5,
+      "posY": 1.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 2,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50213,
+      "posX": 5.5,
+      "posY": -2.5,
+      "planetType": 0,
+      "ownerCode": -1,
+      "factorySlot": 6,
+      "initialCardCodes": []
+    },
+    {
+      "uniqueCode": 50214,
+      "posX": 5.5,
+      "posY": 2.5,
+      "planetType": 1,
+      "ownerCode": 1,
+      "factorySlot": 4,
+      "initialCardCodes": []
+    }
+  ],
+  "mapInfos": [
+    {
+      "uniqueCode": 501,
+      "planetCodes": [
+        50101,
+        50102,
+        50103,
+        50104,
+        50105,
+        50106,
+        50107,
+        50108,
+        50109,
+        50110
+      ],
+      "airwayCodes": [
+        50101,
+        50102,
+        50103,
+        50104,
+        50105,
+        50106,
+        50107,
+        50108,
+        50109,
+        50110,
+        50111,
+        50112,
+        50113,
+        50114
+      ],
+      "mapName": "Solaria",
+      "imageResPath": "Solaria"
+    },
+    {
+      "uniqueCode": 500,
+      "planetCodes": [
+        90101,
+        90102,
+        90103
+      ],
+      "airwayCodes": [
+        90101,
+        90102
+      ],
+      "mapName": "Test",
+      "imageResPath": "Test"
+    },
+    {
+      "uniqueCode": 502,
+      "planetCodes": [
+        50201,
+        50202,
+        50203,
+        50204,
+        50205,
+        50206,
+        50207,
+        50208,
+        50209,
+        50210,
+        50211,
+        50212,
+        50213,
+        50214
+      ],
+      "airwayCodes": [
+        50201,
+        50202,
+        50203,
+        50204,
+        50205,
+        50206,
+        50207,
+        50208,
+        50209,
+        50210,
+        50211,
+        50212,
+        50213,
+        50214,
+        50215
+      ],
+      "mapName": "Karnia",
+      "imageResPath": "Karnia"
+    }
+  ],
+  "airwayInfos": [
+    {
+      "uniqueCode": 50101,
+      "planetACode": 50101,
+      "planetBCode": 50102,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50102,
+      "planetACode": 50101,
+      "planetBCode": 50103,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50103,
+      "planetACode": 50102,
+      "planetBCode": 50104,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50104,
+      "planetACode": 50102,
+      "planetBCode": 50109,
+      "phaseCount": 4
+    },
+    {
+      "uniqueCode": 50105,
+      "planetACode": 50103,
+      "planetBCode": 50104,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50106,
+      "planetACode": 50103,
+      "planetBCode": 50108,
+      "phaseCount": 4
+    },
+    {
+      "uniqueCode": 50107,
+      "planetACode": 50104,
+      "planetBCode": 50105,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50108,
+      "planetACode": 50104,
+      "planetBCode": 50106,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50109,
+      "planetACode": 50105,
+      "planetBCode": 50107,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50110,
+      "planetACode": 50106,
+      "planetBCode": 50107,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50111,
+      "planetACode": 50107,
+      "planetBCode": 50108,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50112,
+      "planetACode": 50107,
+      "planetBCode": 50109,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50113,
+      "planetACode": 50108,
+      "planetBCode": 50110,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50114,
+      "planetACode": 50109,
+      "planetBCode": 50110,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 90101,
+      "planetACode": 90101,
+      "planetBCode": 90102,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 90102,
+      "planetACode": 90102,
+      "planetBCode": 90103,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50201,
+      "planetACode": 50201,
+      "planetBCode": 50202,
+      "phaseCount": 4
+    },
+    {
+      "uniqueCode": 50202,
+      "planetACode": 50201,
+      "planetBCode": 50203,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50203,
+      "planetACode": 50203,
+      "planetBCode": 50204,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50204,
+      "planetACode": 50203,
+      "planetBCode": 50205,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50205,
+      "planetACode": 50203,
+      "planetBCode": 50206,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50206,
+      "planetACode": 50204,
+      "planetBCode": 50206,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50207,
+      "planetACode": 50205,
+      "planetBCode": 50206,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50208,
+      "planetACode": 50206,
+      "planetBCode": 50207,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50209,
+      "planetACode": 50206,
+      "planetBCode": 50208,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50210,
+      "planetACode": 50206,
+      "planetBCode": 50209,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50211,
+      "planetACode": 50209,
+      "planetBCode": 50210,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50212,
+      "planetACode": 50209,
+      "planetBCode": 50211,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50213,
+      "planetACode": 50209,
+      "planetBCode": 50212,
+      "phaseCount": 2
+    },
+    {
+      "uniqueCode": 50214,
+      "planetACode": 50212,
+      "planetBCode": 50214,
+      "phaseCount": 1
+    },
+    {
+      "uniqueCode": 50215,
+      "planetACode": 50214,
+      "planetBCode": 50213,
+      "phaseCount": 4
+    }
+  ],
+  "deckNodeInfos": [
+    {
+      "deckCode": 100,
+      "cardCode": 10101,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10201,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10202,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10203,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10204,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10301,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10302,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10303,
+      "cardNum": 12
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10304,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10305,
+      "cardNum": 2
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10401,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10402,
+      "cardNum": 6
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10403,
+      "cardNum": 8
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10404,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 100,
+      "cardCode": 10501,
+      "cardNum": 13
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20101,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20201,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20202,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20203,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20204,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20301,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20302,
+      "cardNum": 8
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20303,
+      "cardNum": 8
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20401,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20402,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20403,
+      "cardNum": 7
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20404,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20405,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20406,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 200,
+      "cardCode": 20501,
+      "cardNum": 15
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30101,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30102,
+      "cardNum": 0
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30201,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30202,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30203,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30301,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30302,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30303,
+      "cardNum": 8
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30401,
+      "cardNum": 2
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30402,
+      "cardNum": 2
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30403,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30404,
+      "cardNum": 6
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30405,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30406,
+      "cardNum": 15
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30501,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 300,
+      "cardCode": 30502,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40101,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40102,
+      "cardNum": 0
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40201,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40202,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40203,
+      "cardNum": 1
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40301,
+      "cardNum": 5
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40302,
+      "cardNum": 7
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40303,
+      "cardNum": 3
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40304,
+      "cardNum": 14
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40401,
+      "cardNum": 2
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40402,
+      "cardNum": 4
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40403,
+      "cardNum": 8
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40404,
+      "cardNum": 2
+    },
+    {
+      "deckCode": 400,
+      "cardCode": 40501,
+      "cardNum": 12
+    }
+  ]
+}
