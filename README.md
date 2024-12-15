@@ -5,12 +5,12 @@
 - 전장의 각 거점(행성)에 주어진 덱의 유닛(카드)들을 배치하여 자원을 모으고 상대의 거점을 공격해 상대의 메인 거점(행성)을 차지하는 것이 목적인 턴제 전략 게임입니다.
 <table>
   <tr>
-    <td><img src="./Clips/1.png" width="200"></td>
-    <td><img src="./Clips/2.png" width="200"></td>
+    <td><img src="./Clips/1.png" width="400"></td>
+    <td><img src="./Clips/2.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="./Clips/3.png" width="200"></td>
-    <td><img src="./Clips/4.png" width="200"></td>
+    <td><img src="./Clips/3.png" width="400"></td>
+    <td><img src="./Clips/4.png" width="400"></td>
   </tr>
 </table>
 
