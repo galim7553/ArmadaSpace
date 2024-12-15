@@ -13,6 +13,7 @@
     <td><img src="./Clips/4.png" width="200"></td>
   </tr>
 </table>
+
 ## 소개 영상
 (링크 삽입할 것)
 ## 개발 목적
