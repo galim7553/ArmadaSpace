@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=I0JaDhaT4O8
 ## 작업 기간
 - 2024년 7월 ~ 2024년 10월
 ## 빌드
-- [구글 드라이브](https://drive.google.com/file/d/1hJtZu9CItzehO45QoUb1B6bfsQbvwHAB/view?usp=drive_link)
+- [구글 드라이브](https://drive.google.com/file/d/1hJtZu9CItzehO45QoUb1B6bfsQbvwHAB/view?usp=sharing)
 - WebGL(Firebase Hosting) https://armada-space-alpha.web.app/
 
 - 2024년 12월 현재 오프라인 대전 모드만 지원합니다.
