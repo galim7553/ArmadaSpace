@@ -12,17 +12,21 @@
 - 2024년 7월 ~ 2024년 10월
 ## 소개 영상
 (링크 삽입할 것)
-## 빌드 파일
+## 빌드
 (링크 삽입할 것)
 - WebGL(Firebase Hosting) https://armada-space-alpha.web.app/
 
-## 서드파티
+## 사용 에섯
 - TextMeshPro
 - Sci-Fi Card Template Charlie
+  
   카드 배경 이미지
 - Particle Attractor by Moonflower Carnivore
+  
   전투 연출 ParticleSystem
 - Unity UI Samples
+  
   메뉴 UI
 - All In 1 Sprite Shader
+  
   UI 연출
