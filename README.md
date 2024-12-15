@@ -20,20 +20,25 @@
 - TextMeshPro
 - Sci-Fi Card Template Charlie
   
-  카드 배경 이미지
+  카드 배경 이미지 리소스로 사용하였습니다.
 - Particle Attractor by Moonflower Carnivore
   
-  전투 연출 ParticleSystem
+  ParticleSystem이 적용된 전투 연출에 원본 스크립트를 편집하여 사용하였습니다.
 - Unity UI Samples
   
-  메뉴 UI
+  메뉴 UI에 사용하였습니다.
 - All In 1 Sprite Shader
   
-  UI 연출
+  카드 Outline, Fade Out 효과 등에 사용하였습니다.
 
 ## 주요 사용 기술
 
 | 항목명        | 설명      |
 | ------------- | ------------- |
-| Row 1, Col 1  | Row 1, Col 2  |
-| Row 2, Col 1  | Row 2, Col 2  |
+| Design Pattern  | MVP Pattern, Singleton Pattern  |
+| UI Object Binding  | 자식 컴포넌트 자동 바인딩  |
+| Object Pooling  | 자주 사용하는 Object Stack 기반 풀링  |
+| BFS  | 너비 우선 탐색 기반으로 항로 연결 여부 계산  |
+| TaskSequencer  | UI 연출 순차 진행을 위해 사용  |
+| ExcelToJsonConverter  | Editor 스크립트로 Excel 파일을 Json 파일로 자동 변환  |
+
