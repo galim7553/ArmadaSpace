@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=I0JaDhaT4O8
 ## 개발 목적
 - Unity UI/UX 구현 숙달
 - 기획자와 기획서로 소통하며 협업
+## 담당 파트
+- 모든 클라이언트 프로그래밍
 ## 개발 환경
 - Unity 2022.3.15f1
 ## 작업 기간
